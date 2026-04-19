@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:  <br> Small ML-based projects  <br><br>👯 I’m looking to collaborate on:  <br>Web development and beginner-friendly open-source projects  <br><br>🤝 I’m looking for help with:  <br>Advanced DSA, Machine Learning, and real-world project development  <br><br>🌱 I’m currently learning:  <br>Java, Data Structures & Algorithms, and AI/ML concepts  <br><br>💬 Ask me about:  <br>Python, Java, SQL, and basic problem-solving  <br><br>⚡ Mindset:  <br>Quietly determined, endlessly curious — always learning and building 🚀
+🔭 I’m currently working on:  Small ML-based projects  <br>👯 I’m looking to collaborate on:  Web development and beginner-friendly open-source projects  <br>🤝 I’m looking for help with:  Advanced DSA, Machine Learning, and real-world project development  <br>🌱 I’m currently learning:  Java, Data Structures & Algorithms, and AI/ML concepts  <br>💬 Ask me about:  Python, Java, SQL, and basic problem-solving  <br>⚡ Mindset:  Quietly determined, endlessly curious — always learning and building 🚀
 
 
 ## 🌐 Socials:
